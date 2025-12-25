@@ -8,8 +8,14 @@
 
 ## 界面样式
 
-<img width="367" height="754" alt="image" src="https://github.com/user-attachments/assets/c23c8e09-321c-4a02-be62-4487390d3296" />
-<img width="367" height="754" alt="image" src="https://github.com/user-attachments/assets/8bdb944d-60bd-4681-b754-e4630d60f6d0" />
+### 浅色模式
+<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/8d7000cd-919b-4f98-a227-65261d83405c" />
+<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/ddb1910b-aa64-47e6-908c-e6e10484439d" />
+
+### 深色模式
+<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/cd7f5943-e1bb-4790-80d8-68d46d44a469" />
+<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/2a44908c-868b-4478-b78c-c400b44d95a4" />
+<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/64fe74b9-141a-4ba7-85e2-1eb8c8ef309e" />
 
 
 ## 环境要求
