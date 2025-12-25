@@ -15,7 +15,6 @@
 ### 深色模式
 <img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/cd7f5943-e1bb-4790-80d8-68d46d44a469" />
 <img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/2a44908c-868b-4478-b78c-c400b44d95a4" />
-<img width="386" height="730" alt="image" src="https://github.com/user-attachments/assets/64fe74b9-141a-4ba7-85e2-1eb8c8ef309e" />
 
 
 ## 环境要求
