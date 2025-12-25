@@ -4,6 +4,8 @@
 
 前端不开源，后端代码开源，您可自由审查代码是否安全。
 
+专门处理 某讯 的 ACE 程序...
+
 ## 界面样式
 
 <img width="367" height="754" alt="image" src="https://github.com/user-attachments/assets/c23c8e09-321c-4a02-be62-4487390d3296" />
