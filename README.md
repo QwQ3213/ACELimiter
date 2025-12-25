@@ -4,6 +4,12 @@
 
 前端不开源，后端代码开源，您可自由审查代码是否安全。
 
+## 界面样式
+
+<img width="367" height="754" alt="image" src="https://github.com/user-attachments/assets/c23c8e09-321c-4a02-be62-4487390d3296" />
+<img width="367" height="754" alt="image" src="https://github.com/user-attachments/assets/8bdb944d-60bd-4681-b754-e4630d60f6d0" />
+
+
 ## 环境要求
 
 在打包之前，请确保你的系统已安装以下工具：
