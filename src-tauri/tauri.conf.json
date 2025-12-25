@@ -1,19 +1,19 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "ACE-Limiter",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "identifier": "com.ace.limiter",
   "build": {
     "frontendDist": "../out",
     "devUrl": "http://localhost:3000",
-    "beforeDevCommand": "",
+    "beforeDevCommand": "npm run dev",
     "beforeBuildCommand": ""
   },
   "app": {
     "windows": [
       {
         "title": "ACE Limiter",
-        "width": 374,
+        "width": 386,
         "height": 730,
         "minWidth": 374,
         "minHeight": 630,

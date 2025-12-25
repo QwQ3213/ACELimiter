@@ -19,7 +19,7 @@ use windows::Win32::Security::{
 #[cfg(windows)]
 use windows::core::PCWSTR;
 
-const TARGET_PROCESSES: [&str; 2] = ["SGuard64.exe", "SGuardSvc64.exe"];
+const TARGET_PROCESSES: [&str; 3] = ["SGuard64.exe", "SGuardSvc64.exe", "ACE-Tray.exe"];
 
 #[derive(Clone, serde::Serialize)]
 pub struct ProcessStatus {
